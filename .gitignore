@@ -1,2 +1,11 @@
+bin
+build
 node_modules
 release-builds
+
+auto-top.gypi
+auto.gypi
+autogypi.json
+binding.gyp
+
+package-lock.json
